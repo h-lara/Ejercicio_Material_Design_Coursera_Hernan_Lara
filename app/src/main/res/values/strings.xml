@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio Colores Coursera (30 de septiembre)</string>
+    <string name="texto_pantalla">Escogí el color -cyan- como color principal, como color de acentuación escogí -deep orange-</string>
+    <string name="texto_boton">Color de acentuación</string>
+</resources>
